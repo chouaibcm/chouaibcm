@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zeghoum Chouaib
 - 👀 I’m interested in Web developing ,programation, problem solving
-- 🌱 I’m currently Web developer using Php Laravel Framework | bootstrap Framework
+- 🌱 I’m currently Web developer using Php Laravel Framework | JavaScript Jquery | bootstrap Framework | VueJs | RestApi | TypeScript | C#
 - 💞️ I’m looking to collaborate on web project or work with expert team
 - 📫 How to reach me: Email: Chochouaib@gmail.com
 
